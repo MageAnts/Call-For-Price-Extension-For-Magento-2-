@@ -3,7 +3,7 @@
 		<div class="content-wrapper">
 			<div class="content-inner">
 				<h2>Magento 2 Call For Price Extension</h2>
-				<p><strong>Magento 2 call for Price Extension </strong> is a powerful tool that helps merchants manage the product's information visibility.</p>
+				<p><strong><a href="https://www.mageants.com/call-for-price-extension-for-magento-2.html">Magento 2 call for Price Extension</a> </strong> is a powerful tool that helps merchants manage the product's information visibility.</p>
 				<p>Magento 2 call for price plugin is the best solution that helps hide the product prices to the groups of selected customers and store views by adding the “Ask for Price” button.</p>
 				<div class="features-wrapper">
 					<h3>Key Features</h3>
